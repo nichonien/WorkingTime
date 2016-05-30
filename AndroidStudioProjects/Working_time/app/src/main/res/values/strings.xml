@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Working_time</string>
+    <string name="title_activity_gettime">Gettime</string>
+</resources>
